@@ -64,5 +64,6 @@ def overview_student():
 botton_overview = tk.Button(root, text='Overview', command=overview_student)
 botton_overview.pack(pady=25)
 
+print ('hello world')
 
 root.mainloop() #must be put to the end of programming code
